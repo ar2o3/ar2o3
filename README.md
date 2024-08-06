@@ -33,15 +33,15 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 - 🖥️ [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w) <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
-- 💬 Hit my [Telegram](https://t.me/AbbarhSF)
+- 💬 Hit my [Telegram](https://t.me/root_sf)
 
 - 📫 [Gmail](starfordrapid@gmail.com)
   
-- ⚕️ [@0xAbbarhSF](   ) <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+- ⚕️ [@root_sf](   ) <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   
-- 💠 [@0xAbbarhSF](https://www.facebook.com/profile.php?id=100088923798289) <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+- 💠 [@root_sf](https://www.facebook.com/profile.php?id=100088923798289) <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 
-- 🕊️ [@0xAbbarhSF](https://twitter.com/0xAbbarhSF) <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+- 🕊️ [@root_sf](https://twitter.com/root_sf) <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 
 
 
